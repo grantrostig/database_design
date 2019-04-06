@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Investor Holding1" directorySegmentName="seg_0" id="3C9807BC-F366-3D92-BE50-BE53EC04CA47">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-20 04:18:02 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<sourcePk>1582274346612850116316523116298020408</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>1570532169030018618101475485341637201</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>2589252605590820080057208031259856605</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

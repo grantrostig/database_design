@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="2C5E27F5-33D2-DC2D-5741-D7CA9232F82E" name="Staged_File_Changes">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 21:44:35 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<hierarchicalParent>6ACC5405-B4A9-F886-EBBC-A6CA59DA7296</hierarchicalParent>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+</Entity>

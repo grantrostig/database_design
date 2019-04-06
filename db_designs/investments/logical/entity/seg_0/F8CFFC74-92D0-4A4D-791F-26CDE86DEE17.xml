@@ -1,0 +1,104 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="F8CFFC74-92D0-4A4D-791F-26CDE86DEE17" name="Price">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-16 23:46:01 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="F_get_Price" id="24C81CA6-3CBC-5426-B595-858F0E0C3B65">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-17 00:11:03 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Bid_Price" id="3FB4D0AD-42E0-6492-D474-74C303CCB7CA">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-17 00:11:38 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Ask_Price" id="40059445-0EFD-678C-FAD0-15AE01E44F75">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-17 00:12:06 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Bids" id="ADDE9159-3350-171C-6EDD-5791FB0CCA14">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-17 00:12:38 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Asks" id="150A10FD-D848-9279-AFDE-4BC3D4B7EDF2">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-17 00:13:45 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Best_Bid" id="59664AE6-9DB7-220D-B93A-1B2CDB8846DB">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-17 00:13:57 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Best_Ask" id="AD125D04-6DC6-30FA-AC4C-32DA8F28A57E">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-17 00:14:25 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Transactions" id="0DFDE77F-6337-EEC8-3FD5-88B9594D5B18">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-17 00:18:02 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Last_Transaction" id="26D2FF0A-F3FB-F60D-952F-E88C6526A011">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-17 00:18:43 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Average_Price" id="864819B0-7042-E0B3-3236-B70C310089E5">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-17 01:04:45 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Weighted_Average_Price" id="76CD5630-F655-6215-47D0-C1964FE7F31A">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-17 01:05:07 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

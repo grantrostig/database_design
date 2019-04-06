@@ -1,0 +1,26 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="3D0A414B-2E1D-0912-E035-9B5D4587E4EF" name="Brokerage">
+<createdBy>grostig</createdBy>
+<createdTime>2016-05-13 04:36:33 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Name" id="6D52B1FE-CC57-9342-4B0F-56C10F486835">
+<createdBy>grostig</createdBy>
+<createdTime>2016-05-13 04:37:57 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>2998075C-BC00-A7A6-E22C-E3D117E0516C</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_10" directorySegmentName="seg_0" id="175DBE0C-5772-895D-EE4E-1FFFDAF4F60A">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-16 23:47:24 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<identifying>true</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>FE5ADF53-E195-68CB-9E72-E24220B9EF0B</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>E437634D-CF65-DD6A-B7D7-A21C70CD9405</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

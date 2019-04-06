@@ -1,0 +1,25 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="19FD2AB7-A97F-DAA1-012D-71F1213ED54B" name="Absolute_Shares_Portfolio_Equity">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 22:43:23 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<hierarchicalParent>F3616E05-C12D-97B1-4BE1-DD307C6184E5</hierarchicalParent>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Quantiy_Shares" id="43109773-5E78-7680-F031-A92D673D0948">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 22:45:14 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

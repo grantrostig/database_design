@@ -1,0 +1,42 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Fetch" directorySegmentName="seg_0" id="DF888375-A453-DB6B-4A66-4BB6A91003C4">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 21:48:49 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>4AD99402-2A17-1E65-A8B4-DE18C46C0130</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>C77F3EB8-D9DE-22D3-D3CE-5CF5704D44A5</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<attribute name="&lt;--- Fetch" id="A00B644F-CF1E-6AFB-CF09-9C434AA8F0EE">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 21:48:56 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+<attribute name="(all_remote-tracking_branches" id="57230FD0-DE85-B0D1-537F-9BF450258083">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-05 04:16:01 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+</attributes>
+</Relation>

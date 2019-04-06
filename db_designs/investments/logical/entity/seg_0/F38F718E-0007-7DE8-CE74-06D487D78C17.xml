@@ -1,0 +1,48 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="F38F718E-0007-7DE8-CE74-06D487D78C17" name="Investment">
+<createdBy>grostig</createdBy>
+<createdTime>2016-05-13 04:29:20 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Name" id="1104C83B-7D70-429E-BF95-7742A4AEF7E5">
+<createdBy>grostig</createdBy>
+<createdTime>2016-05-13 04:32:28 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Legal_Name" id="46F8EE47-28FF-9BE9-4614-510E111FB7F2">
+<createdBy>grostig</createdBy>
+<createdTime>2016-05-13 05:00:24 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="DBA_Name" id="F320CFFB-0340-C51E-7F26-98CE98BA5738">
+<createdBy>grostig</createdBy>
+<createdTime>2016-05-13 05:00:39 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Short_Name" id="7D4FFF30-DAB4-23ED-7B85-FDAB0A7CF9F9">
+<createdBy>grostig</createdBy>
+<createdTime>2016-05-13 05:00:51 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

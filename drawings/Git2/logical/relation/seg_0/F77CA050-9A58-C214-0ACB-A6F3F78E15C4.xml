@@ -1,0 +1,36 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="add" directorySegmentName="seg_0" id="F77CA050-9A58-C214-0ACB-A6F3F78E15C4">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 21:10:41 UTC</createdTime>
+<comment>test comment</comment>
+<commentInRDBMS>Test DB comment	</commentInRDBMS>
+<notes>note test	</notes>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<nameOnSource>add</nameOnSource>
+<nameOnTarget>add</nameOnTarget>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>0EF362AE-27F3-2FD4-76CE-0D4B6F83AE56</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>2C5E27F5-33D2-DC2D-5741-D7CA9232F82E</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<attribute name="Add ---&gt;" id="0765803A-D572-7440-0F7A-2D1A0354C6DD">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 21:25:03 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+</attributes>
+</Relation>

@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="News Industry Category" directorySegmentName="seg_0" id="E16AF9E5-0232-A5BD-6F23-2213E39EB3F3">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 23:13:34 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>1925089993341480821585977264134682739</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>2446898345700886289512612655104123286</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

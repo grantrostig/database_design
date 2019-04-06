@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Country Region" directorySegmentName="seg_0" id="CEB6CA7F-872A-455A-8DEE-85A71D18F745">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 23:38:38 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>2395313404039032984115550474198884396</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>2867BCA5-8EA0-E8FD-E649-9C6C5A7994F5</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

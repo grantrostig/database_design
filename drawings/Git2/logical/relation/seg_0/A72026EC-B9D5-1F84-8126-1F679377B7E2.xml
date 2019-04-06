@@ -1,0 +1,31 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Checkout" directorySegmentName="seg_0" id="A72026EC-B9D5-1F84-8126-1F679377B7E2">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 23:13:23 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>62FE730E-D9B1-0478-AB6B-D78969A62D25</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>C77F3EB8-D9DE-22D3-D3CE-5CF5704D44A5</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<attribute name="Checkout" id="ACD6AE6E-FE73-4ADC-12F8-3E6DFA50C4F9">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 23:13:49 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+</attributes>
+</Relation>

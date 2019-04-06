@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Investable Company News" directorySegmentName="seg_0" id="D450A2E0-B521-619B-0883-DA57EE774B1B">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 23:46:46 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>1474889244902133127587971364011719953</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>1895335474189409388008747575082484833</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Country Political Risk" directorySegmentName="seg_0" id="D287395C-EEE2-B8ED-9F1C-9DEE844EF932">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 23:34:45 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>2395313404039032984115550474198884396</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>90227130-E0F4-B880-1356-1CC95152531F</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

@@ -1,0 +1,53 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Init &amp; Config" directorySegmentName="seg_0" id="CF6FCCFE-2C54-D836-79C0-B1A1899DD79C">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 23:09:48 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>AAF3F5E0-5EEE-82E1-A9F4-E1EE937CB3EE</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>AAF3F5E0-5EEE-82E1-A9F4-E1EE937CB3EE</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<attribute name="Init" id="80D2945C-2AB5-18C2-1C68-399700DA14FB">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 23:10:10 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+<attribute name="Config" id="D2790396-696E-7ABC-1BBB-3ED971866FDD">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-05 04:13:02 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+<attribute name="remote_add &lt;repo&gt;" id="8A5DD32B-D9B4-8849-D1E5-59DA5F0E55E2">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-05 04:13:11 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+</attributes>
+</Relation>

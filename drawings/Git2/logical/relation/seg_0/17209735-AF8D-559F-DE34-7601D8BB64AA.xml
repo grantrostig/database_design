@@ -1,0 +1,31 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="addv1" directorySegmentName="seg_0" id="17209735-AF8D-559F-DE34-7601D8BB64AA">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 21:46:12 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>C0EF7743-40AB-B8B1-0AD7-8EF9F6397137</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>2C5E27F5-33D2-DC2D-5741-D7CA9232F82E</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<attribute name="Add ---&gt;" id="730F60D0-3D7A-4D5E-F89F-93444F3AD4C4">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 21:46:20 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+</attributes>
+</Relation>

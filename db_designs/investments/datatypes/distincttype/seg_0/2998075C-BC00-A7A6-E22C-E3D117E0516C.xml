@@ -1,0 +1,10 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<DistinctType class="oracle.dbtools.crest.model.design.datatypes.DistinctType" name="Name" directorySegmentName="seg_0" id="2998075C-BC00-A7A6-E22C-E3D117E0516C">
+<createdBy>grostig</createdBy>
+<createdTime>2016-05-13 05:11:39 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<predefined>false</predefined>
+<logicalDataType>LOGDT024</logicalDataType>
+<precision>0</precision>
+<scale>0</scale>
+</DistinctType>

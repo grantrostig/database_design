@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_20" directorySegmentName="seg_0" id="CEEE4973-222C-AE12-A2D2-962FBF3BCE2E">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>B2C07632-1572-A22B-6BD9-D080243FE5CA</importedID>
+<identifying>true</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>F54F1EF6-88CA-4DD9-F65F-A22F44C0124E</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>80130376-9B04-22F3-A953-95A4BD334F64</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

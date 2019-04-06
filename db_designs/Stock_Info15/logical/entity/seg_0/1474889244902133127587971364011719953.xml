@@ -1,0 +1,36 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="1474889244902133127587971364011719953" name="Investable Company">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 22:24:03 UTC</createdTime>
+<comment>A company or partnership for which public or private stock can be purchased now or in the future.</comment>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>5000</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<hierarchicalParent>2214662992882686797745372466049512690</hierarchicalParent>
+<maxVolumes>999999</maxVolumes>
+<minVolumes>5000</minVolumes>
+<normalForm>Third</normalForm>
+<preferredAbbreviation>COMPANIES</preferredAbbreviation>
+<shortName>IbleComp</shortName>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="NAME" id="2286122644927534468983049649976369429">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 22:24:03 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<use>0</use>
+<domain>1455598780767623118172992323251628979</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="UPDATE STATUS" id="2145489974305467705356286031070489802">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 22:24:03 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

@@ -1,0 +1,28 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_16_a" directorySegmentName="seg_0" id="1999650692292186307604471238807934452_2101718988514676248992466102272773319">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 22:24:04 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<identifying>false</identifying>
+<nameOnSource>parent</nameOnSource>
+<nameOnTarget>child</nameOnTarget>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>2170248587274322208651738678460269337</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>2170248587274322208651738678460269337</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<attribute name="Percent of Parent" id="E37A7BE9-86BC-29CF-8914-06ECEA3B3DEC">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-20 04:33:10 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+</attributes>
+</Relation>

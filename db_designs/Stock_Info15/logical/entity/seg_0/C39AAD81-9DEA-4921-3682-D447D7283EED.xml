@@ -1,0 +1,74 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="C39AAD81-9DEA-4921-3682-D447D7283EED" name="Order_Type">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>C66C86F0-B61F-1FB6-551A-B56F6CAD03F8</importedID>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="ED_Market" id="9CB4B19F-788B-5C05-1425-B2C6B21CBBE8">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>1AF39AE0-8054-7018-2267-F114995D6286</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ED_Limit" id="FF8F47F5-CDA0-4642-3D2D-C917CD23FBD6">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 07:23:18 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Other1" id="5C5A1077-CB5B-8623-FD8C-BEFAE3509650">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 21:16:14 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Other2" id="333AA5F0-7BEA-B4F9-CDDB-42A09785E8DE">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 21:16:24 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Custom1" id="6C81E64F-AC35-9E17-16F1-87391E084252">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 21:16:30 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Custom2" id="622A1304-8490-DCA2-61DA-5302587BC2E1">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 21:16:52 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Need user to be able to create" id="3C50A6BA-0560-DDBA-8418-CFC0BD25F0E4">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 21:17:19 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

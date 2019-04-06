@@ -1,0 +1,24 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="E437634D-CF65-DD6A-B7D7-A21C70CD9405" name="Stock_Symbol">
+<createdBy>grostig</createdBy>
+<createdTime>2016-05-13 04:30:35 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Name" id="247D474F-8D22-6DFC-9DA5-E73644FA86B3">
+<createdBy>grostig</createdBy>
+<createdTime>2016-05-13 04:32:01 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

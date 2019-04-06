@@ -1,0 +1,10 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.logical.LogicalDesign>
+   <object objectType="sub_view" objectID="16D0DBEB-F645-27B8-2A9D-79A4ADA6BB36" name="News_Subview" visible="true"/>
+   <object objectType="sub_view" objectID="1857204109327752225224311985005462704" name="An_Action_Taking_Entity_Subview" visible="true"/>
+   <object objectType="sub_view" objectID="312FA60B-89EC-A9C0-976C-0738BAF5853E" name="Investable_Company_Subview" visible="false"/>
+   <object objectType="main_view" objectID="D539B655-C03F-645D-9E24-765DED05A37A" name="Logical" visible="true"/>
+   <object objectType="sub_view" objectID="D6E7898B-8D89-0405-745A-FE240D52FA89" name="Price Subview" visible="true"/>
+   <object objectType="sub_view" objectID="DFBA1A17-2498-57C3-E22A-5070F9FFD3DB" name="Price-Logical - SubView" visible="true"/>
+   <object objectType="sub_view" objectID="FEA98BE2-D427-0F40-4AB5-FC8A053C8F8B" name="Stock_Subview" visible="true"/>
+</oracle.dbtools.crest.model.design.logical.LogicalDesign>

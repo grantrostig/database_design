@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Price Targeter" directorySegmentName="seg_0" id="A79D18E3-F766-019F-A602-15A2D203C867">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 22:52:21 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>1569637429972459326635515084088989725</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>DA4E57DC-1AAC-A039-9D95-363E33A23182</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<InheritanceRelation class="oracle.dbtools.crest.model.design.logical.InheritanceRelation" name="Hierarchy_24" directorySegmentName="seg_0" id="302797F7-7DE5-394E-91A5-764F7177D097">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 21:30:39 UTC</createdTime>
+<ownerDesignName>Stock_Info14</ownerDesignName>
+<identifying>false</identifying>
+<nameOnSource>Super Type</nameOnSource>
+<nameOnTarget>Sub Type</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceEntity>2214662992882686797745372466049512690</sourceEntity>
+<targetEntity>6D1F59A8-F5DE-E581-9DF4-F5B334FBEBBC</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</InheritanceRelation>

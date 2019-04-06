@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="2562628857974748661534074915551015439" name="Staff Role Cat">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 22:24:03 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<preferredAbbreviation>STAFF ROLE CATS</preferredAbbreviation>
+<shortName>STFROLCAT</shortName>
+</Entity>

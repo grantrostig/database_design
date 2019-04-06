@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Company Promotion" directorySegmentName="seg_0" id="A480D0F6-D57C-F4EA-3049-DB0195D97D73">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-20 04:18:45 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<sourcePk>1582274346612850116316523116298020408</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>1570532169030018618101475485341637201</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>808650BA-5685-1BC1-C2C8-A7C7F0C04C9A</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

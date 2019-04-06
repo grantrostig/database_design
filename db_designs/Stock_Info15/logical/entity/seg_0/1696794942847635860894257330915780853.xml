@@ -1,0 +1,42 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="1696794942847635860894257330915780853" name="Asset Valuation">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 22:24:03 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<preferredAbbreviation>ASSET VALUATIONS</preferredAbbreviation>
+<shortName>ASTVALU</shortName>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Valuation" id="CAC43011-1624-9515-922F-D53C99727910">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 23:28:45 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Price Target" id="336C290B-E5EC-018D-17F3-F3A47961B675">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 23:28:45 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Target Date" id="5AA57890-E2DF-8768-4B2F-78D2549D853F">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 23:28:45 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

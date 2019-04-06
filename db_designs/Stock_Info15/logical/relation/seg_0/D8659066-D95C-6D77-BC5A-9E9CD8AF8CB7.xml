@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Major Asset News" directorySegmentName="seg_0" id="D8659066-D95C-6D77-BC5A-9E9CD8AF8CB7">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 23:46:11 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>2170248587274322208651738678460269337</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>1650166556296065263342010556692494611</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

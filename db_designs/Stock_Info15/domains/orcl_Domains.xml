@@ -1,0 +1,58 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<DomainFile class="oracle.dbtools.crest.model.design.DomainFileWrapper" fileName="orcl_Domains">
+   <domains>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="NAME DOMAIN" id="1455598780767623118172992323251628979">
+         <createdBy>grostig</createdBy>
+         <createdTime>2013-09-19 22:24:03 UTC</createdTime>
+         <ownerDesignName>Stock_Info15</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <fileName>orcl_Domains</fileName>
+         <logicalDatatype>LOGDT017</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="GIVEN NAMES DOMAIN" id="1979518676833094888817211617286782670">
+         <createdBy>grostig</createdBy>
+         <createdTime>2013-09-19 22:24:03 UTC</createdTime>
+         <ownerDesignName>Stock_Info15</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypeSize>40</dataTypeSize>
+         <fileName>orcl_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="ABBREVIATION" id="2179709888420125149165997023292193277">
+         <createdBy>grostig</createdBy>
+         <createdTime>2013-09-19 22:24:02 UTC</createdTime>
+         <ownerDesignName>Stock_Info15</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypeSize>12</dataTypeSize>
+         <fileName>orcl_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="FULL NAME" id="2497158620496236865957667477317959202">
+         <createdBy>grostig</createdBy>
+         <createdTime>2013-09-19 22:24:03 UTC</createdTime>
+         <ownerDesignName>Stock_Info15</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypeSize>60</dataTypeSize>
+         <fileName>orcl_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="DELETE TIME" id="2497293950128657338694555786473646301">
+         <createdBy>grostig</createdBy>
+         <createdTime>2013-09-19 22:24:03 UTC</createdTime>
+         <ownerDesignName>Stock_Info15</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypeSize>240</dataTypeSize>
+         <fileName>orcl_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="IS CURRENT" id="2591742165583005732794995762188879228">
+         <createdBy>grostig</createdBy>
+         <createdTime>2013-09-19 22:24:03 UTC</createdTime>
+         <ownerDesignName>Stock_Info15</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypeSize>1</dataTypeSize>
+         <fileName>orcl_Domains</fileName>
+         <logicalDatatype>LOGDT025</logicalDatatype>
+      </Domain>
+   </domains>
+</DomainFile>

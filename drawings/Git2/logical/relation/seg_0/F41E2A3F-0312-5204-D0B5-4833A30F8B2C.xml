@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Commit ---&gt;" directorySegmentName="seg_0" id="F41E2A3F-0312-5204-D0B5-4833A30F8B2C">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 22:50:46 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>C77F3EB8-D9DE-22D3-D3CE-5CF5704D44A5</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>2CF87704-EA53-83C8-EE4A-65DA1FF9E4BF</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

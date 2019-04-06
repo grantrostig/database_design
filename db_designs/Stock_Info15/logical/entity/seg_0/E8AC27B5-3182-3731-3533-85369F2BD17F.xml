@@ -1,0 +1,73 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="E8AC27B5-3182-3731-3533-85369F2BD17F" name="Buyer Seller Category">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 07:17:35 UTC</createdTime>
+<commentInRDBMS>describes size and nature of buyer, ie. Insider, Hedge Fund, Institution, Retail, Commercial, Specialty Investor.&lt;br/&gt;?? I&apos;m guessing this was the intent. grostig</commentInRDBMS>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Name" id="0EB58127-61F5-799D-3DEC-2B541346E6A2">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 22:00:15 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ED_Insider" id="75928A72-1FD8-6759-E40A-4A73224F7CC4">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 22:15:35 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ED_Hedge_Fund" id="27B2216F-4B6C-A238-CD0D-638B38402DC0">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 22:15:53 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ED_Institution" id="427DB3E7-F53D-0747-A9DE-3CCB5C32B50A">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 22:16:03 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ED_Retail" id="C7FFDBFF-4475-9D42-85BC-7C5B8FB270F8">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 22:16:15 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ED_Commercials" id="CB703AA7-43F8-7186-6884-D2AF896F741C">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 22:16:28 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ED_Specialty_Fund" id="F8CC460C-C94B-CB71-D940-39DC5CED8039">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 22:16:38 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

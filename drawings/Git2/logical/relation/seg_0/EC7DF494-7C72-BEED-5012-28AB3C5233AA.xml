@@ -1,0 +1,31 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="User_Edits" directorySegmentName="seg_0" id="EC7DF494-7C72-BEED-5012-28AB3C5233AA">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 21:59:13 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>62FE730E-D9B1-0478-AB6B-D78969A62D25</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>C0EF7743-40AB-B8B1-0AD7-8EF9F6397137</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<attribute name="&lt;--- User_Edits" id="63DD4BA5-77EB-5EE4-0DE0-E5D386115E0B">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 21:59:43 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+</attributes>
+</Relation>

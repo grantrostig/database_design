@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Git2" id="C6992860-06F0-503A-9772-3BC90EF46AD7" version="3.5">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 20:59:10 UTC</createdTime>
+<ownerDesignName>Git</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>C6992860-06F0-503A-9772-3BC90EF46AD7</designId>
+</OSDM_Design>

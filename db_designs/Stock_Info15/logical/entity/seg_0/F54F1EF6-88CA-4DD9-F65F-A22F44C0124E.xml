@@ -1,0 +1,47 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="F54F1EF6-88CA-4DD9-F65F-A22F44C0124E" name="Time_Period">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>647B45F5-E565-430A-F489-48FCFD46D8EA</importedID>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Begin_Date_Time" id="802B329D-7FD6-41F6-84A9-D8FB8E9A2DA0">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>0E9A11EA-62DB-4AAC-133D-4D499B8C83D9</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT008</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="End_Date_Time" id="ACF9D561-8582-D88F-7C92-5ED491722BDA">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>2F593172-4C83-BAFA-5DC1-E3D5BAB8891F</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT008</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Present_Time" id="C1EFCFF7-8079-BDA8-6F89-28BF7AFCC975">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-30 03:29:52 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

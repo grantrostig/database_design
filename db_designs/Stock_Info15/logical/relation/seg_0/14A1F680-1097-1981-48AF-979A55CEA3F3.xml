@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Valuer" directorySegmentName="seg_0" id="14A1F680-1097-1981-48AF-979A55CEA3F3">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 22:36:57 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<identifying>true</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>1569637429972459326635515084088989725</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>1696794942847635860894257330915780853</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

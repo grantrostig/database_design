@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Insider Buy News Person" directorySegmentName="seg_0" id="B81D0082-1A5D-D462-94CA-6F3B920875FC">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 23:15:29 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>1621821305773536060642471000046426193</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>1569637429972459326635515084088989725</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

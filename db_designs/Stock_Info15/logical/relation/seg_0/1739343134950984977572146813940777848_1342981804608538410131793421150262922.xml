@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Company Size Cat" directorySegmentName="seg_0" id="1739343134950984977572146813940777848_1342981804608538410131793421150262922">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 22:24:04 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<identifying>false</identifying>
+<nameOnSource>is of size</nameOnSource>
+<nameOnTarget>sizes</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>1474889244902133127587971364011719953</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>2304795341789903639951757684556071505</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

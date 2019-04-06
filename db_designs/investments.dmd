@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="investments" id="9AADE98E-4D19-8E8A-65CB-E35DCF563DCE" version="3.5">
+<createdBy>grostig</createdBy>
+<createdTime>2016-05-13 04:26:25 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>9AADE98E-4D19-8E8A-65CB-E35DCF563DCE</designId>
+</OSDM_Design>

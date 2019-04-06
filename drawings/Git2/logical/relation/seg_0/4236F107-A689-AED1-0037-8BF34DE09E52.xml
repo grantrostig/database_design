@@ -1,0 +1,42 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Push" directorySegmentName="seg_0" id="4236F107-A689-AED1-0037-8BF34DE09E52">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 21:47:36 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>C77F3EB8-D9DE-22D3-D3CE-5CF5704D44A5</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>4AD99402-2A17-1E65-A8B4-DE18C46C0130</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<attribute name="Push ---&gt;" id="D8FC5E3E-AC6A-7D7E-E053-CA38187B26E5">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 21:47:42 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+<attribute name="(all_local_branches)" id="0F635258-CD36-F077-BD0E-E72E824F20F3">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-05 04:17:32 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+</attributes>
+</Relation>

@@ -1,0 +1,31 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="&lt;--- Rm2" directorySegmentName="seg_0" id="2120CEA5-ABC4-8644-B0EE-2106D03A6F68">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 22:40:19 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>0EF362AE-27F3-2FD4-76CE-0D4B6F83AE56</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>6ACC5405-B4A9-F886-EBBC-A6CA59DA7296</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<attribute name="Rm2" id="1B3A6A5F-2A7F-8EE2-57B4-7EDA6848068C">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 22:40:26 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+</attributes>
+</Relation>

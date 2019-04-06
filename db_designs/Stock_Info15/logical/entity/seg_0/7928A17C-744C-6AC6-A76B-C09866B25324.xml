@@ -1,0 +1,43 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="7928A17C-744C-6AC6-A76B-C09866B25324" name="Time_Interval">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>E7B460AB-3610-786C-021A-AC19D2BDE651</importedID>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Unit _of_Time" id="7993EA15-E9AF-B4D4-3D3B-36EE1EE00820">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>B834201D-A8C4-2CBC-DC06-51AF6CB986A5</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Quantity" id="E94BD0B6-0778-6412-DCEC-FB5AAE97E8A7">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>7AEF07C5-A247-04B2-1F7F-196A246A6598</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ED_30_Seconds" id="D658053D-F005-E02A-735E-F395BD4802ED">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 22:17:20 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

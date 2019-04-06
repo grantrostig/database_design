@@ -1,0 +1,182 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="80130376-9B04-22F3-A953-95A4BD334F64" name="Equity_Price_Methods">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>F8CFFC74-92D0-4A4D-791F-26CDE86DEE17</importedID>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="F_get_Last_Price" id="BC3766A7-A41A-F935-8411-DA54802A62F4">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>24C81CA6-3CBC-5426-B595-858F0E0C3B65</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Bid_Price" id="90CD93A7-9068-3192-2565-9C00FFDA04E3">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>3FB4D0AD-42E0-6492-D474-74C303CCB7CA</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Ask_Price" id="1F618839-A4F4-16F4-E68B-659D3908FE7E">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>40059445-0EFD-678C-FAD0-15AE01E44F75</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Mark_Price_(not_market)" id="7133E021-5AE8-780C-E302-93098E6ABF51">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 23:36:39 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Bids" id="17E5BCCB-E0A0-05CE-9FA8-00E6FD8ED014">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>ADDE9159-3350-171C-6EDD-5791FB0CCA14</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Bids_Options_NQ" id="6FD1DB2A-3AC1-478A-006E-336FA7A58F56">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-29 22:18:58 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Asks" id="623D4D10-FF77-9A76-BDE6-924A04D615AB">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>150A10FD-D848-9279-AFDE-4BC3D4B7EDF2</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Best_Bid" id="71815519-6523-6D12-808F-11BA934C6AE7">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>59664AE6-9DB7-220D-B93A-1B2CDB8846DB</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Best_Ask" id="A14ACBEC-9407-90CA-3BAA-B01BA118FAC5">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>AD125D04-6DC6-30FA-AC4C-32DA8F28A57E</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Transactions" id="2C47A823-1820-DA90-D444-D686D3BF3158">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>0DFDE77F-6337-EEC8-3FD5-88B9594D5B18</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Last_Transaction" id="921309E7-CE26-833E-91D3-14A2EABE3CAA">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>26D2FF0A-F3FB-F60D-952F-E88C6526A011</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Average_Price" id="5C822C87-3B32-AB87-ABED-5430285928B8">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>864819B0-7042-E0B3-3236-B70C310089E5</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Weighted_Average_Price" id="C2293953-43A0-6AD9-4BA2-19E4F7707D75">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:28:37 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<importedID>76CD5630-F655-6215-47D0-C1964FE7F31A</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Custom_Portfolio_Price" id="D18C32BA-AE13-3B61-8CDE-52AEC6253BB5">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 21:05:44 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Correlation_Between_2_Equities" id="9B0BC24B-3660-F966-99C3-EBD40496F352">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 22:31:09 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Correlation_Between_Equity_And_Portfolio" id="84E99C2D-E6F7-84FE-0238-746754243115">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 22:32:53 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="F_get_Portfolio_Price_Of_Entity_Staff" id="89FDC1FF-0F7F-DBFE-8FDD-5540B58081A1">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 22:38:21 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="G_get_Actual_Volatility" id="9E6ED150-563C-278A-2E1F-59AD06DC5512">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-28 23:40:14 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="NAME" id="6BA09095-CB9B-28AD-A06A-E5FD52728924">
+<createdBy>grostig</createdBy>
+<createdTime>2016-07-04 03:17:03 UTC</createdTime>
+<generatorID>1991BF3E-A0F9-0426-F793-E8975CD6DB67</generatorID>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<referedAttribute>D7BD7FB3-45AD-F706-87AC-6D26E26050DD</referedAttribute>
+<use>0</use>
+<domain>1455598780767623118172992323251628979</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

@@ -1,0 +1,42 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Stash" directorySegmentName="seg_0" id="DED2F028-B033-CC82-975C-9B98B9D6964A">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 21:42:20 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>72DC0C55-74C6-4A17-502F-71405B97534F</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>C0EF7743-40AB-B8B1-0AD7-8EF9F6397137</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<attribute name="&lt;--- Stash" id="23ADBAAA-4C1A-9F11-C4E7-8E1084B2632A">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 21:42:38 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+<attribute name="Stash Pop||Apply ---&gt;" id="E2B82755-1CD6-D1E9-4EF8-2C94E25E75E0">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 22:03:51 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+</attributes>
+</Relation>

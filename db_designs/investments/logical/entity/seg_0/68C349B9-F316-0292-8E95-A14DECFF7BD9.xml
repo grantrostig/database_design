@@ -1,0 +1,32 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="68C349B9-F316-0292-8E95-A14DECFF7BD9" name="Price_Quantity">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-17 00:20:28 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Price" id="EDF2A432-7FC6-39FB-7806-1DE0B91397FA">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-17 00:21:11 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Quantity" id="83B67E59-8350-49F6-ACC4-987031BDCF52">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-17 00:21:16 UTC</createdTime>
+<ownerDesignName>investments</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

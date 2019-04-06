@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Price Currency" directorySegmentName="seg_0" id="1852310956332508905729159416232355911_1804151109055662938781822657685494823">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 22:24:04 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<identifying>false</identifying>
+<nameOnSource>prices</nameOnSource>
+<nameOnTarget>priced in</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>2609251213100145939312100411926009443</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>1570532169030018618101475485341637201</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

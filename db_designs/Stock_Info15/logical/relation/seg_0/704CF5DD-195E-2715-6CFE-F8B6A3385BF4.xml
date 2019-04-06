@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Asset Risk Category" directorySegmentName="seg_0" id="704CF5DD-195E-2715-6CFE-F8B6A3385BF4">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-20 04:58:57 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>181508EF-0ECB-CCE7-6D84-334B95E34163</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>90227130-E0F4-B880-1356-1CC95152531F</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

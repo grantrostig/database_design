@@ -1,0 +1,33 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Merge" directorySegmentName="seg_0" id="E04F154C-309B-49B0-B94D-6216B7D60398">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 21:49:29 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<nameOnSource>merge l</nameOnSource>
+<nameOnTarget>merge r</nameOnTarget>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>C77F3EB8-D9DE-22D3-D3CE-5CF5704D44A5</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>62FE730E-D9B1-0478-AB6B-D78969A62D25</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<attribute name="&lt;--- Merge" id="254D6C74-9746-DE6F-96AE-B61057FB9D8A">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-04 21:49:40 UTC</createdTime>
+<ownerDesignName>Git2</ownerDesignName>
+<engineerTo>
+<item key="A5DCAE20-9CBE-81F9-0526-981E4B75A11A" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+</attributes>
+</Relation>

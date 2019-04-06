@@ -1,0 +1,92 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="DA4E57DC-1AAC-A039-9D95-363E33A23182" name="Buy Recommendation">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 22:50:25 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<hierarchicalParent>1972564280343065764865476819207245671</hierarchicalParent>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Valuation" id="E022CC7A-20AD-36F1-8E6A-E09DA2F1920D">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 23:17:53 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Target Date" id="ED744BAC-A731-138C-6AF0-9665F23F854C">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 23:18:21 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Shares Outstandng" id="E40E446C-E2F7-BD27-2DA0-6B69114B202A">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 23:18:54 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Options Outstanding" id="D97B5D4A-63B1-5702-E1E5-EF6D3BB1C584">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 23:19:04 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="NAME" id="DE78EBC8-DADD-9D32-8B76-61B13F4B692D">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:41:18 UTC</createdTime>
+<generatorID>12A7C743-9877-7261-16FA-D7274D192F5A</generatorID>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<referedAttribute>1716935835784532732515057421508885676</referedAttribute>
+<use>0</use>
+<domain>1455598780767623118172992323251628979</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="buy_upto_price" id="B04BDCA5-22E1-8C1E-81F8-A06829064BF1">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:48:16 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="target_up_price" id="FB9636C9-1388-3739-E823-D2DF2BCD40B1">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:48:16 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="take_profit_up_price" id="BBF537C2-6FFB-02FD-2516-C6FEDB468578">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:48:16 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="stop_loss_sell_price" id="916202D6-7622-822E-04B3-216F5715A352">
+<createdBy>grostig</createdBy>
+<createdTime>2016-06-21 05:48:16 UTC</createdTime>
+<ownerDesignName>Stock_Info15</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

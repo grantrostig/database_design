@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Stock_Info15" id="ABAED4C9-BC8D-E530-70A8-0EF3367D419E" version="3.5">
+<createdBy>grostig</createdBy>
+<createdTime>2013-09-19 22:20:26 UTC</createdTime>
+<ownerDesignName>Stock_Info11</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>ABAED4C9-BC8D-E530-70A8-0EF3367D419E</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="9AADE98E-4D19-8E8A-65CB-E35DCF563DCE">
+<designStoragePath>C:\Users\grostig\junk</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
