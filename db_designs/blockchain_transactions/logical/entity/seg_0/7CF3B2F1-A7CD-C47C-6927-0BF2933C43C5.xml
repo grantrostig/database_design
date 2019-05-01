@@ -1,0 +1,43 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="7CF3B2F1-A7CD-C47C-6927-0BF2933C43C5" name="Transactions">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-21 06:46:47 UTC</createdTime>
+<ownerDesignName>blockchain_transactions</ownerDesignName>
+<engineerTo>
+<item key="3CCE64AD-28B8-0029-3DC6-BF5E9F96F44D" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Transaction_id" id="84E8E0F3-BBB1-AE19-EB9B-669710C10920">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-21 06:53:07 UTC</createdTime>
+<ownerDesignName>blockchain_transactions</ownerDesignName>
+<engineerTo>
+<item key="3CCE64AD-28B8-0029-3DC6-BF5E9F96F44D" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="CEC598AF-65FC-708C-2FBA-C73128877CD3" name="Transactions PK">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-21 06:53:31 UTC</createdTime>
+<ownerDesignName>blockchain_transactions</ownerDesignName>
+<engineerTo>
+<item key="3CCE64AD-28B8-0029-3DC6-BF5E9F96F44D" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>84E8E0F3-BBB1-AE19-EB9B-669710C10920</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

@@ -1,0 +1,31 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="0E7FD0EA-853B-91BB-57A2-D78643AF3D67" name="netted_transaction">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-21 07:12:08 UTC</createdTime>
+<ownerDesignName>blockchain_transactions</ownerDesignName>
+<engineerTo>
+<item key="3CCE64AD-28B8-0029-3DC6-BF5E9F96F44D" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="transaction_id" id="B1C408F5-9DB7-618F-A7A5-AB1EFF0F94E7">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-21 07:43:33 UTC</createdTime>
+<generatorID>785B88F3-5F9F-0601-5307-ECE0070CD22F</generatorID>
+<ownerDesignName>blockchain_transactions</ownerDesignName>
+<engineerTo>
+<item key="3CCE64AD-28B8-0029-3DC6-BF5E9F96F44D" value="true"/>
+</engineerTo>
+<referedAttribute>74E15484-CDB3-C14F-F34F-284A692EAF0B</referedAttribute>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

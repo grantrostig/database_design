@@ -1,0 +1,52 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="4CA20A48-B863-EB08-0136-D1FD2CF9B8C5" name="transaction_delta_record">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-21 07:14:39 UTC</createdTime>
+<ownerDesignName>blockchain_transactions</ownerDesignName>
+<engineerTo>
+<item key="3CCE64AD-28B8-0029-3DC6-BF5E9F96F44D" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="account_id" id="4566190E-8040-4E42-2C53-7809457E5238">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-21 07:15:24 UTC</createdTime>
+<ownerDesignName>blockchain_transactions</ownerDesignName>
+<engineerTo>
+<item key="3CCE64AD-28B8-0029-3DC6-BF5E9F96F44D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="delta_amount" id="68587F94-D046-5EFC-8722-42E32992650C">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-21 07:15:34 UTC</createdTime>
+<ownerDesignName>blockchain_transactions</ownerDesignName>
+<engineerTo>
+<item key="3CCE64AD-28B8-0029-3DC6-BF5E9F96F44D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="std::pair&lt;&gt;" id="741F87BF-8E9C-AA7E-8FFC-935D69829CB1">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-21 07:50:28 UTC</createdTime>
+<ownerDesignName>blockchain_transactions</ownerDesignName>
+<engineerTo>
+<item key="3CCE64AD-28B8-0029-3DC6-BF5E9F96F44D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

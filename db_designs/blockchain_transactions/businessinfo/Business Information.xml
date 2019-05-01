@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<BusinessInfoDesign class="oracle.dbtools.crest.model.businessinfo.BusinessInfoDesign" name="Business Information" id="097827EA-8755-FC03-2464-D54F8A432890">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-21 06:38:47 UTC</createdTime>
+<ownerDesignName>blockchain_transactions</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</BusinessInfoDesign>

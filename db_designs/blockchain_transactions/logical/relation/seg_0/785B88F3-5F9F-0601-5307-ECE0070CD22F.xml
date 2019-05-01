@@ -1,0 +1,34 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_4" directorySegmentName="seg_0" id="785B88F3-5F9F-0601-5307-ECE0070CD22F">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-21 07:17:30 UTC</createdTime>
+<ownerDesignName>blockchain_transactions</ownerDesignName>
+<engineerTo>
+<item key="3CCE64AD-28B8-0029-3DC6-BF5E9F96F44D" value="true"/>
+</engineerTo>
+<sourceTransferable>false</sourceTransferable>
+<targetTransferable>false</targetTransferable>
+<sourcePk>8F60D300-B032-E831-603B-438BD00797F6</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>FC12D8DA-C335-C26D-519A-C14D8432E139</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>0E7FD0EA-853B-91BB-57A2-D78643AF3D67</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<attribute name="vector" id="84CBC6BB-FE9C-C43C-549E-31B0DF65063E">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-21 07:29:22 UTC</createdTime>
+<ownerDesignName>blockchain_transactions</ownerDesignName>
+<engineerTo>
+<item key="3CCE64AD-28B8-0029-3DC6-BF5E9F96F44D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+</attributes>
+</Relation>

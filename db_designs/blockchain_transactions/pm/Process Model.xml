@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="B23602BE-F178-38AD-5C3D-5DD8DA197CC0">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-21 06:38:47 UTC</createdTime>
+<ownerDesignName>blockchain_transactions</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>

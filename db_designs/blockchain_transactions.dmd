@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="blockchain_transactions" id="FE1BCC89-11F5-8592-11F9-4B11346DB56F" version="3.5">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-21 06:38:47 UTC</createdTime>
+<ownerDesignName>blockchain_transactions</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>FE1BCC89-11F5-8592-11F9-4B11346DB56F</designId>
+</OSDM_Design>

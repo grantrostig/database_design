@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="B2E4932E-EFD3-EA25-8B6C-F1B2EE79DB5C" mainViewID="01F302BE-F898-F287-4AB2-72C71FC38600">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-21 06:38:47 UTC</createdTime>
+<ownerDesignName>blockchain_transactions</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

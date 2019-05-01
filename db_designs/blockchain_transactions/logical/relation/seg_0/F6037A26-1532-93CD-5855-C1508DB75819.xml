@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_6" directorySegmentName="seg_0" id="F6037A26-1532-93CD-5855-C1508DB75819">
+<createdBy>grostig</createdBy>
+<createdTime>2019-04-21 07:57:03 UTC</createdTime>
+<ownerDesignName>blockchain_transactions</ownerDesignName>
+<engineerTo>
+<item key="3CCE64AD-28B8-0029-3DC6-BF5E9F96F44D" value="true"/>
+</engineerTo>
+<targetPk>91A6E7D0-0667-73D1-B9E1-57EB53CE3AE1</targetPk>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>740E37FD-E99D-FB25-AF98-19A77AAA80CC</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>6E1700BA-3174-3E13-ABCF-1B6A6DB0BD0D</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>
